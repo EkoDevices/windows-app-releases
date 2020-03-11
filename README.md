@@ -5,7 +5,7 @@ Releases are available here: ekodevices.github.io/windows-app-releases/{filename
 
 ## Software release notes
 
-### v.15.1 (<a href="https://ekodevices.github.io/windows-app-releases/Eko%20Windows%20App%20Installer%20v1.5.1.msi">Link</a>)
+### v.15.1 (<a href="https://ekodevices.github.io/windows-app-releases/Eko%20Windows%20App%20Installer%20v1.5.1.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.5.1/Eko.Windows.App.Installer.v1.5.1.msi.zip">Zip file</a>)
 2020-03-03
 New features and bugfixes
 * Fix infrequent connection timeouts occurring when the app tries to connect to the Eko CORE 2
