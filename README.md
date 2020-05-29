@@ -42,6 +42,13 @@ If they select NO then the prompt will be dismissed (but will reappear whenever 
 
 ## Software release notes
 
+### v.1.5.3
+
+2020-05-05
+New features and bugfixes
+* Fixed per user upgrade installer
+
+
 ### v.1.5.2 (<a href="https://ekodevices.github.io/windows-app-releases/Eko%20Windows%20App%20Installer%20v1.5.2.msi">Link</a>) (<a href="https://ekodevices.github.io/windows-app-releases/Eko%20Windows%20App%20Installer%20v1.5.2.msi.zip">Zip file</a>)
 2020-05-05
 New features and bugfixes
