@@ -42,12 +42,12 @@ If they select NO then the prompt will be dismissed (but will reappear whenever 
 
 ## Software release notes
 
-### v.1.6.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.5.3/Eko.Windows.App.Installer.v1.5.3.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.5.3/Eko.Windows.App.Installer.v1.5.3.msi.zip">Zip file</a>)
+### v.1.6.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.0.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.0.msi.zip">Zip file</a>)
 
 2020-08-18
 New features and bugfixes
 * Added visual c++ to the Installer
-* Changed App window startup position (Top center of monitor)
+* Changed App startup window position (Top center of monitor)
 * Changed livestream audio packet serialization
 * Changed auto update workflow
 
