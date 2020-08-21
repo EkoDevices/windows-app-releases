@@ -42,14 +42,19 @@ If they select NO then the prompt will be dismissed (but will reappear whenever 
 
 ## Software release notes
 
-### v.1.6.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.0.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.0.msi.zip">Zip file</a>)
+[### v.1.6.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.0.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.0.msi.zip">Zip file</a>)](#v.1.6.0)
 
 2020-08-18
 New features and bugfixes
-* Added visual c++ to the Installer
-* Changed App startup window position (Top center of monitor)
+* Added visual c++ to the installer
+* Changed App window position to top center of monitor on startup
 * Changed livestream audio packet serialization
 * Changed auto update workflow
+  - The app will not start the auto update thread if the user is not a local admin and the app is installed for all users.
+  - The app will start the auto update thread if the user is not local admin and the app is installed only for the current user.
+  - The app will start the auto update thread if the user is local admin and app is installed for all users
+  - Silently update the app once the latest installer is downloaded.
+
 
 ### v.1.5.3 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.5.3/Eko.Windows.App.Installer.v1.5.3.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.5.3/Eko.Windows.App.Installer.v1.5.3.msi.zip">Zip file</a>)
 
