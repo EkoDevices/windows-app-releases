@@ -42,6 +42,13 @@ If they select NO then the prompt will be dismissed (but will reappear whenever 
 
 ## Software release notes
 
+### v.1.6.1 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.1/Eko.Windows.App.Installer.v1.6.1.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.1.msi.zip">Zip file</a>)]
+
+2021-01-05
+New features
+* Added support for screen with 150% dpi
+* Added support for DUO 4.0+
+
 ### v.1.6.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.0.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.0.msi.zip">Zip file</a>)]
 
 2020-08-18
