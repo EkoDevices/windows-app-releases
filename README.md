@@ -42,6 +42,14 @@ If they select NO then the prompt will be dismissed (but will reappear whenever 
 
 ## Software release notes
 
+### v.1.7.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.7.0/Eko.Windows.App.Installer.v1.7.0.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.7.0/Eko.Windows.App.Installer.v1.7.0.msi.zip">Zip file</a>)]
+
+2021-03-03
+New features and bugfixes
+* Added support for Data Length Extension
+* Improved the accuracy of the BLE device enumerator
+* Fixed handling of the connection to CORE 1 using BLED dongle
+
 ### v.1.6.1 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.1/Eko.Windows.App.Installer.v1.6.1.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.6.0/Eko.Windows.App.Installer.v1.6.1.msi.zip">Zip file</a>)]
 
 2021-01-05
