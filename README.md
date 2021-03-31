@@ -42,6 +42,12 @@ If they select NO then the prompt will be dismissed (but will reappear whenever 
 
 ## Software release notes
 
+### v.1.8.1 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.8.1/Eko.Windows.App.Installer.v1.8.1.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.8.1/Eko.Windows.App.Installer.v1.8.1.msi.zip">Zip file</a>)]
+
+2021-03-30
+New features and bugfixes
+* Fixed issue with auto update from 1.7.0
+
 ### v.1.8.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.8.0/Eko.Windows.App.Installer.v1.8.0.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.8.0/Eko.Windows.App.Installer.v1.8.0.msi.zip">Zip file</a>)]
 
 2021-03-29
