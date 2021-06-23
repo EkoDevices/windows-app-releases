@@ -42,6 +42,16 @@ If they select NO then the prompt will be dismissed (but will reappear whenever 
 
 ## Software release notes
 
+### v.1.9.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.9.0/Eko.Windows.App.Installer.v1.9.0.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.9.0/Eko.Windows.App.Installer.v1.9.0.msi.zip">Zip file</a>)]
+
+2021-06-23
+New features and bugfixes
+* Hardware Acceleration turned off by default for computers with Intel Xe GPU
+  - A bug affecting Intel Xe GPU drivers currently prevents the application from plotting data when using hardware acceleration
+* Added support for Eko DUO v4.0+
+* Fixed bug affecting the login form validator when password is copied and pasted
+* Fixed bug affecting the migration of user settings when the application is updated
+
 ### v.1.8.1 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.8.1/Eko.Windows.App.Installer.v1.8.1.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.8.1/Eko.Windows.App.Installer.v1.8.1.msi.zip">Zip file</a>)]
 
 2021-03-30
