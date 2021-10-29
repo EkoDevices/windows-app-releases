@@ -42,6 +42,12 @@ If they select NO then the prompt will be dismissed (but will reappear whenever 
 
 ## Software release notes
 
+### v.1.9.1 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.9.1/Eko.Windows.App.Installer.v1.9.1.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.9.1/Eko.Windows.App.Installer.v1.9.1.msi.zip">Zip file</a>)]
+
+2021-10-27
+New features and bugfixes
+* Fixed pairing issue with Eko CORE
+
 ### v.1.9.0 (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.9.0/Eko.Windows.App.Installer.v1.9.0.msi">Link</a>) (<a href="https://github.com/EkoDevices/windows-app-releases/releases/download/v1.9.0/Eko.Windows.App.Installer.v1.9.0.msi.zip">Zip file</a>)]
 
 2021-06-23
